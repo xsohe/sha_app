@@ -1,0 +1,2 @@
+D:/Projects/Learn/android/sha_app/bank_sha/android/app/.cxx/Debug/c1b3l1e5/x86_64/CMakeFiles/edit_cache.dir
+D:/Projects/Learn/android/sha_app/bank_sha/android/app/.cxx/Debug/c1b3l1e5/x86_64/CMakeFiles/rebuild_cache.dir
